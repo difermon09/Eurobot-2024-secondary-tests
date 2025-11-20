@@ -48,12 +48,12 @@ This folder documents my early hands-on experience with embedded hardware and mi
 - Transition from high-level Python scripting to C/C++ on microcontrollers.
 - Incremental learning: starting with simple tests and building to small structured code (OLED helper class).
 
-License & contact
------------------
-These sketches are educational examples I developed. If you need more details about wiring or to discuss a particular sketch, feel free to contact me via my GitHub profile.
-
 Oled display image
 ------------------
 <p align="center">
   <img src="images/display.jpg"/>
 </p>
+
+License & contact
+-----------------
+These sketches are educational examples I developed. If you need more details about wiring or to discuss a particular sketch, feel free to contact me via my GitHub profile.
