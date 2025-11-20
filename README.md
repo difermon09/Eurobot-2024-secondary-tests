@@ -51,3 +51,7 @@ This folder documents my early hands-on experience with embedded hardware and mi
 License & contact
 -----------------
 These sketches are educational examples I developed. If you need more details about wiring or to discuss a particular sketch, feel free to contact me via my GitHub profile.
+
+Oled display image
+------------------
+![Pantalla](images/display.jpg)
