@@ -10,21 +10,21 @@ The sketches in this folder are component tests and demos. The team’s final ro
 
 Contents
 --------
-- `DC_velocity_tester/DC_velocity_tester.ino` — Test sketch for DC motor velocity. Use this to verify motor response and basic velocity behavior.
-- `L298N_tester/L298N_tester.ino` — Simple tester for an L298N motor driver (basic motor control and direction tests).
-- `Limit_switch_tester/Limit_switch_tester.ino` — Reads and debounces a limit/safety switch for mechanical tests.
-- `Millis_test/Millis_test.ino` — Example of non-blocking timing using `millis()` instead of `delay()`.
-- `Oled_display_tester/Oled_display_tester.ino` — Tests OLED display functions (uses Adafruit libraries). The sketch displays the battery percentage and the current field color (H for homologation / B for blue / Y for yellow) on the screen.
-- `Servo_tester/Servo_tester.ino` — Basic servo movement and calibration sketch.
-- `Switch_tester/Switch_tester.ino` — Simple sketch to test push-buttons and switches.
-- `Ultrasonic_tester/Ultrasonic_tester.ino` — Distance measurement using an ultrasonic sensor (HC‑SR04).
+- `DC_velocity_tester` — Test sketch for DC motor velocity. Use this to verify motor response and basic velocity behavior.
+- `L298N_tester` — Simple tester for an L298N motor driver (basic motor control and direction tests).
+- `Limit_switch_tester` — Reads and debounces a limit/safety switch for mechanical tests.
+- `Millis_test` — Example of non-blocking timing using `millis()` instead of `delay()`.
+- `Oled_display_tester` — Tests OLED display functions. The sketch displays the battery percentage and the current field color (H for homologation / B for blue / Y for yellow) on the screen.
+- `Servo_tester` — Basic servo movement and calibration sketch.
+- `Switch_tester` — Simple sketch to test push-buttons and switches.
+- `Ultrasonic_tester` — Distance measurement using an ultrasonic sensor (HC‑SR04).
 
 Prerequisites
 -------------
 - Arduino IDE (or compatible editor).
 - Select the correct board and serial port in the IDE before uploading.
 - Install libraries when required:
-  - `Oled_display_tester/Oled_display_tester.ino` — Requires:
+  - `Oled_display_tester` — Requires:
     - `Adafruit_GFX`
     - `Adafruit_SSD1306`
 
