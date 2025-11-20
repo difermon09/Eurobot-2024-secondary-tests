@@ -1,8 +1,6 @@
 # Tests
 
-This folder contains a set of small Arduino sketches I wrote during my first year on the university and on the university robotics team. The exercises were assigned so I could learn how to connect and program the hardware components used in the secondary robots for the Eurobot 2024 competition. These sketches are intentionally simple: they are utility/testing programs to verify individual components, and they also served as the building blocks for the private final routines developed by the team (those final routines are not public).
-
-Because these examples are very basic and educational, I'm happy to share them here as part of my portfolio. At the time I started this work I came from a Python background, so these sketches were also my way of learning C/C++ for microcontrollers. The examples increase in complexity as you go through the folder, from simple switch and timing tests up to a small use of classes for the OLED display.
+This folder contains very simple Arduino sketches I developed during my first year at university and as part of the robotics team to learn how to program hardware for the secondary robot in Eurobot 2024. They are component testing programs that also served as the foundation for the team’s private routines. Coming from a Python background, these examples helped me get started with C/C++. The complexity increases progressively, from basic switch and timing tests to examples using classes for an OLED display.
 
 Important note on privacy
 -------------------------
