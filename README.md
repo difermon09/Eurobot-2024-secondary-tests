@@ -1,4 +1,4 @@
-# Tests
+# Eurobot-2024-secondary-tests
 
 This folder contains very simple Arduino sketches I developed during my first year at university and as part of the robotics team to learn how to program hardware for the secondary robot in Eurobot 2024. They are component testing programs that also served as the foundation for the team’s private routines. Coming from a Python background, these examples helped me get started with C/C++. The complexity increases progressively, from basic switch and timing tests to examples using classes for an OLED display.
 
