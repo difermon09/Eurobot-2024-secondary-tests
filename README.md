@@ -41,13 +41,6 @@ How to use
 3. Select the board and COM port, then click Upload.
 4. Open the Serial Monitor (baud rate shown in the sketch, typically 9600) to view debug output.
 
-Why this is in my portfolio
----------------------------
-This folder documents my early hands-on experience with embedded hardware and microcontrollers. It demonstrates:
-- Basic hardware interfacing (digital I/O, PWM, ultrasonic sensors, servos, motor drivers).
-- Transition from high-level Python scripting to C/C++ on microcontrollers.
-- Incremental learning: starting with simple tests and building to small structured code (OLED helper class).
-
 Oled display image
 ------------------
 <p align="center">
