@@ -55,5 +55,5 @@ These sketches are educational examples I developed. If you need more details ab
 Oled display image
 ------------------
 <p align="center">
-  <img src="images/display.jpg" alt="Pantalla" width="50%" />
+  <img src="images/display.jpg"/>
 </p>
